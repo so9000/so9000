@@ -1,4 +1,7 @@
-## Hi there 👋
+## Certifications
+
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/370759da-94dd-4ced-a88e-e6f69fbc86e6/public_url)
+
 
 <!--
 **so9000/so9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
